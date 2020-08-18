@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+@import url(https://fonts.googleapis.com/css?family=Arimo);
+
+#Heading {
+  color:#0A69B8;
+  font-family: Arial;
+  font-size : 35px;
+}
+body {
+  font-size: 20px;
+  font-family: Arimo;
+  background-color: #B3A2A2;
+ 
+}
+.list{
+  font-family:Lobster; Arimo;
+}
